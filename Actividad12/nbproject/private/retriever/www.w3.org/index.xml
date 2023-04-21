@@ -1,0 +1,450 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!-- Generated from data/head-home.php, Array{head.tpl} -->
+<head>
+<title>World Wide Web Consortium (W3C)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="Help" href="/Help/" />
+<link rel="stylesheet" href="/2008/site/css/minimum" type="text/css" media="all" />
+<style type="text/css" media="print, screen and (min-width: 481px)">
+/*<![CDATA[*/
+@import url("/2008/site/css/advanced");
+/*]]>*/
+</style>
+<link href="/2008/site/css/minimum" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" />
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" href="/2008/site/css/print" type="text/css" media="print" />
+<link rel="shortcut icon" href="/2008/site/images/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/2008/site/js/testimonial.js">
+</script>
+<meta name="description" content="The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards." />
+<link rel="alternate" type="application/atom+xml" title="W3C News" href="/blog/news/feed/atom" />
+</head>
+<body id="www-w3-org" class="w3c_public">
+<div id="w3c_container">
+<!-- Generated from data/mast-home.php, Array{mast.tpl} -->
+<div id="w3c_mast"><!-- #w3c_mast / Page top header -->
+<h1 class="logo"><a tabindex="2" accesskey="1" href="/"><img src="/2008/site/images/logo-w3c-mobile-lg" width="90" height="53" alt="W3C" /></a> <span class="alt-logo">W3C</span></h1>
+<div id="w3c_nav">
+<form action="https://www.w3.org/Help/search" method="get" enctype="application/x-www-form-urlencoded">
+<!-- w3c_sec_nav is populated through js -->
+<div class="w3c_sec_nav"><!-- --></div>
+<ul class="main_nav"><!-- Main navigation menu -->
+<li class="first-item"><a href="/standards/">Standards</a></li>
+<li><a href="/participate/">Participate</a></li>
+<li><a href="/Consortium/membership">Membership</a></li>
+<li class="last-item"><a href="/Consortium/">About W3C</a></li>
+<li class="search-item">
+<div id="search-form"><input tabindex="3" class="text" name="q" value="" title="Search" /> <button id="search-submit" name="search-submit" type="submit"><img class="submit" src="/2008/site/images/search-button" alt="Search" width="21" height="17" /></button></div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+<!-- /end #w3c_mast -->
+<div id="w3c_main">
+<div id="w3c_logo_shadow" class="w3c_leftCol"><img height="32" alt="" src="/2008/site/images/logo-shadow" /></div>
+<div class="w3c_leftCol">
+<h2 class="offscreen">Site Navigation</h2>
+<h3 class="category tMargin"><span class="ribbon"><a href="Consortium/mission.html#principles">Web for All <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="/WAI/">Accessibility</a></li>
+<li><a href="/International/">Internationalization</a></li>
+<li><a href="Security/">Web Security</a></li>
+<li><a href="Privacy/">Privacy</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="standards/">Web and Industry <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="auto/">Automotive and Transportation</a></li>
+<li><a href="tv/">Entertainment (TV and Broadcasting)</a></li>
+<li><a href="publishing/">Publishing</a></li>
+<li><a href="Payments/">Web Payments</a></li>
+<li><a href="2013/data/">Web of Data</a></li>
+<li><a href="Telco/">Web and Telecommunications</a></li>
+<li><a href="WoT/">Web of Things</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="/groups/">W3C Work Groups <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="/Consortium/cepc/">Code of Ethics and Professional
+Conduct</a></li>
+<li><a href="/Guide/">Participant guidebook</a></li>
+<li><a href="/community/groups/">W3C Community Groups</a></li>
+<li><a href="/Help/Account/">Get a W3C Account</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="participate/">Dev Resources <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a title="W3C Developer Avenue" href="/developers/"><img src="/2015/10/W3C-Developers_Assets/W3C-Developers-Dark.png" width="150" alt="W3C Developers" title="W3C Developer Avenue" /></a></li>
+<li><a title="W3C API" href="/api/">API<img src="/2020/07/w3c-api.png" width="60" alt="API" title="W3C API" style="vertical-align:middle;" /></a></li>
+<li><a href="https://validator.w3.org/">Validators</a></li>
+<li><a href="https://www.w3.org/2009/cheatsheet/">W3C
+cheatsheet</a></li>
+<li><a href="Status.html">More Open Source Software</a></li>
+<li><a title="Open Web Platform testing" href="https://web-platform-tests.org/">Web Platform Tests</a></li>
+<li><a title="MOOCs from W3C on edX" href="https://www.edx.org/school/w3cx">W3Cx (Training)</a></li>
+</ul>
+</div>
+<div class="w3c_mainCol">
+<div id="w3c_crumbs">
+<div id="w3c_crumbs_frame">
+<p class="bct"><span class="skip"><a tabindex="1" accesskey="2" title="Skip to content (e.g., when browsing via audio)" href="#w3c_most-recently">Skip</a></span></p>
+<br /></div>
+</div>
+<div class="line">
+<div class="unit size2on3">
+<div class="main-content">
+<h2 class="offscreen">News</h2>
+<div id="w3c_slideshow"><div id="w3c_most-recently" class="intro hierarchy vevent_list">
+   <div class="event w3c_topstory expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">W3C welcomes feedback on the beta of its new website</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-02-27T16:58:55Z"> 27 February 2023 </span> | <a title="Archive: W3C welcomes feedback on the beta of its new website" href="https://www.w3.org/blog/news/archives/9851">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p><a class="imageLink" href="https://beta.w3.org/"><img decoding="async" src="https://www.w3.org/blog/wp-content/uploads/2023/02/betasite-2023-02-27-277x300.png" alt="Screenshot of the beta version of the homepage of the redesigned W3C website" width="100" /></a>W3C invites public <a href="https://github.com/w3c/w3c-website">feedback</a> on a <a href="http://beta.w3.org/">beta release</a> of the W3C website <a href="https://w3c.studio24.net">redesign</a>. The new site features a cleaner and more modern look, a simplified information architecture, improved accessibility, and more integration throughout the site. Once the beta of the English site has concluded, we will offer sites in Japanese and Chinese.</p>
+<p>The scope of the redesign is limited to most of our public pages, but we will gradually work to include the rest of the site.</p>
+<p>You can read a bit more on the beta and its context in the <a href="https://www.w3.org/blog/2023/02/w3c-launches-beta-of-its-new-website">W3C blog post</a>, and about the redesign work and process in <a href="https://www.studio24.net/blog/w3c-beta-site-launch/">Studio 24&#x2019;s blog post</a>. We look forward to your feedback.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">World Wide Web Consortium seeking next CEO</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-21T13:02:34Z"> 21 April 2023 </span> | <a title="Archive: World Wide Web Consortium seeking next CEO" href="https://www.w3.org/blog/news/archives/9891">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p id="desc">The World Wide Web Consortium (W3C) is working with leading international executive search firm <a href="https://candidates.perrettlaver.com/vacancies/3565/">Perrett Laver</a> to find qualified candidates from around the world to be our CEO.</p>
+<p>W3C began 2023 by forming a new public-interest incorporated not-for-profit organization. We are now seeking our next leader at this exciting time in our evolution.</p>
+<p>The new organization preserves the core process and mission of the Web Consortium to shepherd the Web, by developing open web standards as a single global organization with contributions from W3C Members, staff, and the international community. The new W3C entity preserves our member-driven approach and existing worldwide outreach and cooperation.</p>
+<p>W3C is a unique organization at a crucial transition point in its existence. Reporting to the newly formed Board of Directors, the CEO will be responsible for the success of W3C in line with our mission. The CEO must be an experienced and collaborative leader who appreciates the strong assets of W3C &#x2014;its expert staff, engaged members, committed Board and fantastic reputation&#x2014; and has the capacity to effectively leverage these to transform the organization and ensure a bright future and further impact.</p>
+<p>The next CEO of W3C will be a strategic, collaborative, and motivating leader. They will have a global mindset and the ability to effectively engage with a diverse range of stakeholders. They will be a person of integrity who is forward thinking and supportive of staff. Most importantly, they will have an affinity for, and understanding of, the work, mission, and values of W3C.</p>
+<p>W3C invites applications from qualified CEO candidates from across several continents. Please refer to the <a href="https://candidates.perrettlaver.com/vacancies/3565/">Perrett Laver</a> site. <strong>The deadline for applications is Friday, May 12th, 2023. </strong></p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">W3C invites implementations of Trace Context Level 2</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-18T09:00:51Z"> 18 April 2023 </span> | <a title="Archive: W3C invites implementations of Trace Context Level 2" href="https://www.w3.org/blog/news/archives/9885">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/groups/wg/distributed-tracing">Distributed Tracing Working Group</a> invites implementations of the <a href="https://www.w3.org/TR/2023/CR-trace-context-2-20230418/">Trace Context Level 2</a> Candidate Recommendation Snapshot. This specification defines standard HTTP headers and a value format to propagate context information that enables distributed tracing scenarios. The specification standardizes how context information is sent and modified between services. Context information uniquely identifies individual requests in a distributed system and also defines a means to add and propagate provider-specific context information.</p>
+<p>Comments are welcome via the<a href="https://github.com/w3c/trace-context/"> GitHub issues</a> by <strong>18 July 2023</strong>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">First Public Working Drafts: EdDSA Cryptosuite v2022; ECDSA Cryptosuite v2019</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-18T08:55:08Z"> 18 April 2023 </span> | <a title="Archive: First Public Working Drafts: EdDSA Cryptosuite v2022; ECDSA Cryptosuite v2019" href="https://www.w3.org/blog/news/archives/9888">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/groups/wg/vc">Verifiable Credentials Working Group</a> has published the following two First Public Working Drafts:</p>
+<ul class="show_items">
+<li><a href="https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230418/">EdDSA Cryptosuite v2022</a>: This specification describes a Data Integrity cryptographic suite for use when creating or verifying a digital signature using the twisted Edwards Curve Digital Signature Algorithm (EdDSA) and Curve25519 (ed25519).</li>
+<li><a href="https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230418/">ECDSA Cryptosuite v2019</a>: This specification describes a Data Integrity Cryptosuite for use when generating a digital signature using the Elliptic Curve Digital Signature Algorithm (ECDSA) based on the Standards for Efficient Cryptography over prime fields using a verifiably random Elliptic Curve (secpr1).</li>
+</ul>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">Call for Review: EPUB 3.3, EPUB Reading Systems 3.3, EPUB Accessibility 1.1 are W3C Proposed Recommendations</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-13T08:40:24Z"> 13 April 2023 </span> | <a title="Archive: Call for Review: EPUB 3.3, EPUB Reading Systems 3.3, EPUB Accessibility 1.1 are W3C Proposed Recommendations" href="https://www.w3.org/blog/news/archives/9880">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org//publishing/groups/epub-wg/">EPUB 3 Working Group</a> has published three
+Proposed Recommendations today for EPUB&#xA0;3.3. This technology defines a distribution and interchange format
+for digital publications and documents. The EPUB format provides a means of representing, packaging,
+and encoding structured and semantically enhanced Web content &#x2014; including HTML, CSS, SVG, and
+other resources &#x2014; for distribution in a single-file container.</p>
+<p>The three Proposed Recommendations are:</p>
+<ul>
+<li>The <a href="https://www.w3.org/TR/2023/PR-epub-33-20230413/">EPUB 3.3</a> specification defines the authoring requirements
+for EPUB Publications and represents the third major revision of the standard.</li>
+<li>The <a href="https://www.w3.org/TR/2023/PR-epub-rs-33-20230413/">EPUB Reading Systems 3.3</a> specification
+defines the conformance requirements for EPUB 3 Reading Systems &#x2014; the user agents that render EPUB Publications.</li>
+<li>The <a href="https://www.w3.org/TR/2023/PR-epub-a11y-11-20230413/">EPUB Accessibility 1.1</a>
+specifies content conformance requirements for verifying the accessibility of EPUB Publications.
+It also specifies accessibility metadata requirements for the discoverability of EPUB publications.</li>
+</ul>
+<p>Comments are welcome through <strong>15 May 2023</strong>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">First Public Working Draft: Badging API</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-06T12:07:55Z"> 6 April 2023 </span> | <a title="Archive: First Public Working Draft: Badging API" href="https://www.w3.org/blog/news/archives/9878">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/groups/wg/webapps">Web Applications Working Group</a> has published a First Public Working Draft of <a href="https://www.w3.org/TR/2023/WD-badging-20230406/">Badging API</a>. This specification defines an API that allows <a href="https://www.w3.org/TR/appmanifest/#dfn-installed-web-application">installed web applications</a> to set an application badge, which is usually shown alongside the application&#x2019;s icon on the device&#x2019;s home screen or application dock.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">CSS Box Model Module Level 3 is a W3C Recommendation</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-04-06T08:59:47Z"> 6 April 2023 </span> | <a title="Archive: CSS Box Model Module Level 3 is a W3C Recommendation" href="https://www.w3.org/blog/news/archives/9876">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/groups/wg/css">CSS Working Group</a> has published <a href="https://www.w3.org/TR/2023/REC-css-box-3-20230406/">CSS Box Model Module Level 3</a> as a W3C Recommendation. This specification describes the margin and padding properties, which create spacing in and around a CSS box.</p>
+<p><a href="https://www.w3.org/TR/CSS/">CSS</a> is a language for describing the rendering of structured documents (such as HTML and XML) on screen, on paper, etc.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">W3C invites implementations of Web Neural Network API</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-03-30T07:58:09Z"> 30 March 2023 </span> | <a title="Archive: W3C invites implementations of Web Neural Network API" href="https://www.w3.org/blog/news/archives/9868">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/groups/wg/webmachinelearning">Web Machine Learning Working Group</a> invites implementations of the <a href="https://www.w3.org/TR/2023/CR-webnn-20230330/">Web Neural Network API</a> Candidate Recommendation Snapshot.</p>
+<p>The Web Neural Network API is a low-level browser API that enables hardware acceleration of machine learning models, opening the way to high-performance privacy-preserving usage of computer vision, natural language processing and generation or speech processing improvements emerging from the recent advances in the field.</p>
+<p>Comments are welcome via the <a href="https://github.com/webmachinelearning/webnn/issues/">GitHub issues</a> by <strong>1 October 2023</strong>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">Upcoming W3C Workshop: Secure the Web Forward</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2023-03-20T12:02:57Z"> 20 March 2023 </span> | <a title="Archive: Upcoming W3C Workshop: Secure the Web Forward" href="https://www.w3.org/blog/news/archives/9860">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p><a class="imageLink" href="https://www.w3.org/2023/03/secure-the-web-forward/"><img decoding="async" src="https://www.w3.org/2023/03/secure-the-web-forward/hero.jpg" alt="padlocks attached to a fence, picture by Parsoa Khorsand" height="150" /></a></p>
+<p>W3C announced today the <a href="https://www.w3.org/2023/03/secure-the-web-forward/">W3C Workshop &#x201C;Secure the Web Forward&#x201D;</a>, June 7-8 2023, Hosted by Microsoft Reactor, London, UK.</p>
+<p>The Secure the Web Forward W3C Workshop brings together experts in standards and best practices needed to secure Web Applications, practitioners of Security Supply Chain in Open Source contexts, developer advocates with a focus on security and developers, designers and technologists with experience in adopting and deploying Web security standards and practices. We aim to develop a comprehensive picture and roadmap to address the challenges Web developers face in ensuring their applications are secure.</p>
+<p>The scope includes:</p>
+<ul>
+<li>How to bring the &#x201C;secure software supply chain&#x201D; approach to the web development community.</li>
+<li>Guidance for different types of web developers who work at different levels of the stack.</li>
+<li>How to make emerging web application security standards and technologies easier to use and adopt by web developers.</li>
+<li>How can open source security focused efforts better support the web developer community?</li>
+<li>How can Open Source security review processes serve as inspiration for review of new web specifications?</li>
+</ul>
+<p>The Program Committee is exploring how to make use of the venue&#x2019;s remote participation capabilities and will update the workshop home page as these get settled. Attendance is free for all invited participants and is open to the public, whether or not W3C members.</p>
+<p>For more information on the workshop, please see the <a href="https://www.w3.org/2023/03/secure-the-web-forward/index.html">workshop details and submission instructions</a>. Position papers are due by <strong>April 24, 2023</strong>.</p>
+</div>
+   </div>
+</div></div>
+<p class="noprint"><span class="more-news"><a href="/blog/news/" title="More News">More news&#x2026;</a> <a title="RSS feed for W3C home page news" href="/blog/news/feed" class="feedlink"><img width="30" height="30" alt="RSS" src="/2008/site/images/icons/rss30" /></a> <a title="Atom feed for W3C home page news" href="/blog/news/feed/atom" class="feedlink"><img width="30" height="30" alt="Atom" src="/2008/site/images/icons/atom30" /></a></span></p>
+<div class="w3c_events_talks">
+<div class="line">
+<div class="unit size1on2">
+<div id="w3c_home_talks" class="w3c_upcoming_talks"><div><h2 class="category">
+    <a title="More Talks&#x2026;" href="/Talks/">
+        Talks and Appearances <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" />
+    </a>
+</h2>
+
+        <ul class="vevent_list">
+                    <li>
+                There are no upcoming events.            </li>
+            </ul>
+</div></div>
+</div>
+<div class="unit size1on2 lastUnit">
+<div id="w3c_home_upcoming_events" class="w3c_upcoming_events"><h2 class="category"><a title="More Events&#x2026;" href="/participate/eventscal.html">Events <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+  <ul class="vevent_list">
+    <li class="vevent">
+      <div class="date">
+<span class="dtstart"><span class="year">2023</span><span class="mm-dd">-04-19</span></span>
+<span class="paren">(</span><span class="dd-mmm">19 APR</span><span class="paren">)</span>
+<span class="date-separator"> &#x2013; </span>
+<span class="dtend"><span class="year">2023</span><span class="mm-dd">-04-21</span></span>
+<span class="paren">(</span><span class="dd-mmm">21 APR</span><span class="paren">)</span>
+</div>
+      <div class="info-wrap">
+      <p class="summary">
+              <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2023/04-tokyo" class="uri url">W3C TAG Meeting</a>
+      </p>
+          <p class="location">Tokyo, Japan</p>
+       <p class="host">Hosted by Google</p>
+  
+      </div>
+    </li>
+    <li class="vevent">
+      <div class="date">
+<span class="dtstart"><span class="year">2023</span><span class="mm-dd">-05-09</span></span>
+<span class="paren">(</span><span class="dd-mmm"> 9 MAY</span><span class="paren">)</span>
+<span class="date-separator"> &#x2013; </span>
+<span class="dtend"><span class="year">2023</span><span class="mm-dd">-05-10</span></span>
+<span class="paren">(</span><span class="dd-mmm">10 MAY</span><span class="paren">)</span>
+</div>
+      <div class="info-wrap">
+      <p class="summary">
+              <a href="https://www.w3.org/2023/05/AC/Overview.html" class="uri url">AC Meeting</a>
+      </p>
+          <p class="location">Sophia Antipolis, France</p>
+       <p class="host">Inria</p>
+  
+      </div>
+    </li>
+    <li class="vevent">
+      <div class="date">
+<span class="dtstart"><span class="year">2023</span><span class="mm-dd">-06-07</span></span>
+<span class="paren">(</span><span class="dd-mmm"> 7 JUN</span><span class="paren">)</span>
+<span class="date-separator"> &#x2013; </span>
+<span class="dtend"><span class="year">2023</span><span class="mm-dd">-06-08</span></span>
+<span class="paren">(</span><span class="dd-mmm"> 8 JUN</span><span class="paren">)</span>
+</div>
+      <div class="info-wrap">
+      <p class="summary">
+              <a href="https://www.w3.org/2023/03/secure-the-web-forward/" class="uri url">W3C Workshop "Secure the Web Forward"</a>
+      </p>
+          <p class="location">Microsoft Reactor, London, UK</p>
+       <p class="host">Hosted by Microsoft Reactor</p>
+  
+      </div>
+    </li>
+    <li class="vevent">
+      <div class="date">
+<span class="dtstart"><span class="year">2023</span><span class="mm-dd">-09-11</span></span>
+<span class="paren">(</span><span class="dd-mmm">11 SEP</span><span class="paren">)</span>
+<span class="date-separator"> &#x2013; </span>
+<span class="dtend"><span class="year">2023</span><span class="mm-dd">-09-15</span></span>
+<span class="paren">(</span><span class="dd-mmm">15 SEP</span><span class="paren">)</span>
+</div>
+      <div class="info-wrap">
+      <p class="summary">
+              <a href="https://www.w3.org/2023/09/TPAC/" class="uri url">TPAC 2023 - Hybrid meeting</a>
+      </p>
+          <p class="location">Melia Sevilla Hotel, Sevilla, Spain</p>
+         
+      </div>
+    </li>
+  </ul></div>
+</div>
+</div>
+</div>
+<!-- end events talks --></div>
+<!-- end main content --></div>
+<div class="unit size1on3 lastUnit">
+<h2 class="category"><a href="/Consortium/">About W3C <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<p class="about">The World Wide Web Consortium (W3C) is an <a href="/Consortium/facts">international community</a> that develops open
+<a href="/TR/">standards</a> to ensure the long-term growth of the
+Web.</p>
+<p>Learn about the <a href="https://www.w3.org/2023/01/pressrelease-w3c-le-launched.html.en">new W3C,
+Inc.</a> and its <a href="https://www.w3.org/groups/other/board">Board of Directors</a>.</p>
+<h2 class="category"><a href="support/">Donations <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<p class="about">Become a <a href="support/">Friend of W3C</a>:
+support the <a href="Consortium/mission">W3C mission</a> and free
+<a href="/developers/">developer tools</a>.</p>
+<div id="w3c_home_recent_blogs"><h2 class="category">
+      <a title="More Blog Entries&#x2026;" href="/blog/">W3C Blog <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" />
+      </a>
+   </h2><ul class="hentry_list">
+      <li class="hentry">
+         <p class="entry-title">
+            <a href="https://www.w3.org/blog/2023/04/answering-what-aria-can-i-use/" class="uri url" rel="bookmark">Answering &#x201C;What ARIA can I use?&#x201D;</a>
+         </p>
+         <p class="date">
+            <abbr title="2023-04-17" class="published">17 April 2023</abbr> by <span class="author vcard">Matthew King</span>
+         </p>
+      </li>
+      <li class="hentry">
+         <p class="entry-title">
+            <a href="https://www.w3.org/blog/2023/03/privacy-principles-for-the-web/" class="uri url" rel="bookmark">Privacy Principles for the Web</a>
+         </p>
+         <p class="date">
+            <abbr title="2023-03-22" class="published">22 March 2023</abbr> by <span class="author vcard">Samuel Weiler</span>
+         </p>
+      </li>
+      <li class="hentry">
+         <p class="entry-title">
+            <a href="https://www.w3.org/blog/2023/02/w3c-launches-beta-of-its-new-website/" class="uri url" rel="bookmark">W3C launches beta of its new website</a>
+         </p>
+         <p class="date">
+            <abbr title="2023-02-27" class="published">27 February 2023</abbr> by <span class="author vcard">
+               <a class="fn url" href="https://koalie.blog/">Coralie Mercier</a>
+            </span>
+         </p>
+      </li>
+   </ul></div>
+<div id="w3c_home_new_jobs">
+<h2 class="category"><a href="/Consortium/Recruitment/">Jobs and
+fellowship at W3C <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<ul class="show_items">
+<li>None at this time</li>
+</ul>
+</div>
+<div class="hpmt" id="w3c_home_member_testimonials">
+<h2 class="category"><a title="Read all Member testimonials" href="/Consortium/Member/Testimonial/">Featured W3C Member <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<div id="w3c_home_member_testimonials_choice"><!-- --></div>
+</div>
+<div id="w3c_home_video">
+<h2 class="category"><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Web
+Accessibility and W3C standards (Video) <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<p style="text-align: center"><a href="https://www.w3.org/WAI/videos/standards-and-benefits/"><img src="https://www.w3.org/2020/12/still.jpg" width="233" alt="Thumbnail of Web Accessibility and W3C Standards Video" /></a></p>
+<p>Watch our video on Web Accessibility and W3C standards!</p>
+</div>
+</div>
+</div>
+<!-- end main col --></div>
+</div>
+</div>
+<!-- Generated from data/footer.php, Array{footer-block.tpl} -->
+<div id="w3c_footer">
+<div id="w3c_footer-inner">
+<h2 class="offscreen">Footer Navigation</h2>
+<div class="w3c_footer-nav">
+<h3>Navigation</h3>
+<ul class="footer_top_nav">
+<li><a href="/">Home</a></li>
+<li><a href="/standards/">Standards</a></li>
+<li><a href="/participate/">Participate</a></li>
+<li><a href="/Consortium/membership">Membership</a></li>
+<li class="last-item"><a href="/Consortium/">About W3C</a></li>
+</ul>
+</div>
+<div class="w3c_footer-nav">
+<h3>Contact W3C</h3>
+<ul class="footer_bottom_nav">
+<li><a href="/Consortium/contact">Contact</a></li>
+<li><a accesskey="0" href="/Help/">Help and FAQ</a></li>
+<li><a href="/Consortium/sponsor/">Sponsor / Donate</a></li>
+<li><a href="/Consortium/siteindex">Site Map</a></li>
+<li>
+<address id="w3c_signature"><a href="https://lists.w3.org/Archives/Public/site-comments/">Feedback</a></address>
+</li>
+</ul>
+</div>
+<div class="w3c_footer-nav">
+<h3>W3C Updates</h3>
+<ul class="footer_follow_nav">
+<li><a href="https://twitter.com/W3C" title="Follow W3C on Twitter"><img src="/2008/site/images/Twitter_bird_logo_2012.svg" alt="Twitter" class="social-icon" height="40" /></a></li>
+</ul>
+</div>
+<!-- #footer address / page signature -->
+<p class="copyright">Copyright &copy; 2023 <a href="https://www.w3.org/">World Wide Web Consortium</a>.<br />
+  <abbr title="World Wide Web Consortium">W3C</abbr><sup>&reg;</sup>
+  <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">liability</a>,
+  <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">trademark</a> and
+  <a rel="license" href="https://www.w3.org/Consortium/Legal/copyright-software" title="W3C Software and Document License">permissive document license</a> rules apply.</p>
+</div>
+</div>
+<!-- /end #footer -->
+<!-- Generated from data/scripts.php, ../../smarty/{scripts.tpl} -->
+<div id="w3c_scripts">
+<script type="text/javascript" src="/2008/site/js/main">
+</script></div>
+</body>
+</html>
